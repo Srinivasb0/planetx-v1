@@ -98,7 +98,7 @@ function App() {
             <input className="text-center" placeholder={token} 
             style={{marginBottom: "10px",borderWidth:'1.3px', color: '#232323', borderColor:'#232323', borderRadius: '3px'}}
             onChange={handleTokenChange}/>
-          <Button variant="secondary" size="sm" onClick={handleClick}>Reedem tokens</Button>
+          <Button variant="secondary" size="sm" onClick={handleClick}>Issue credits</Button>
             </div>
             </Col>
       </Row>
